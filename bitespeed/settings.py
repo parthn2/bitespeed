@@ -25,7 +25,7 @@ SECRET_KEY = '-q1ae)*03ed@2ati48nh4k*oj+!pc=uj$xk#*_^^naqm6$^ya-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [bitespeed-ales.onrender.com]
+ALLOWED_HOSTS = ["https://bitespeed-ales.onrender.com"]
 
 
 # Application definition
